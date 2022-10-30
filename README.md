@@ -1,5 +1,4 @@
 # Performance API Testing
-Learning unit testing with python
 
 ## Setup
 Install python on windows
